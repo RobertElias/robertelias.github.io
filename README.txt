@@ -1,3 +1,5 @@
+
+# Host your website for the world to see. Follow the instructions found here https://pages.github.com/. Once you have hosted your web page, share it for your peers to see. This is not a small feat!
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
