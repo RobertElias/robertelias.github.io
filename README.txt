@@ -1,5 +1,6 @@
 
-Host your website for the world to see. Follow the instructions found here https://pages.github.com/. Once you have hosted your web page, share it for your peers to see. This is not a small feat!
+Host your website for the world to see. Follow the instructions found here https://pages.github.com/.
+Once you have hosted your web page, share it for your peers to see. This is not a small feat!
 
 Solid State by HTML5 UP
 html5up.net | @ajlkn
